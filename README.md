@@ -3,6 +3,7 @@
 
 
 ParkingVision is a dashboard concept that aims to reduce the cost of parking monitoring systems in Singapore.
+
 Paper Proposal (https://docs.google.com/document/d/1NV1VlkR4sk11ETLrla_ulTUpd2XuEsjQyfWmCOAJ_nQ/edit?usp=sharing)
 
 Today, traditional parking lot sensors use radar sensors and technologies such as ultrasonic sensors, magnetometers and multi-agent systems. (IOT sensors) The combination of all these parking space availability sensors can then range from $300 to $500 (source: https://www.itskrs.its.dot.gov/node/209110). 

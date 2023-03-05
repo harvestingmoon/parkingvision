@@ -2,7 +2,7 @@
 <img width="500" alt="logo" src="https://user-images.githubusercontent.com/81916103/213084910-7ab22d82-29e8-492e-a590-d25dfd7a2707.png">
 
 
-ParkingVision is a dashboard concept that aims to reduce the cost of parking monitoring systems in Singapore.
+ParkingVision is a dashboard concept that aims to reduce the cost of parking monitoring systems in Singapore. (by Wen Yeong aka harvestingmoon)
 
 Paper Proposal (https://docs.google.com/document/d/1NV1VlkR4sk11ETLrla_ulTUpd2XuEsjQyfWmCOAJ_nQ/edit?usp=sharing)
 
